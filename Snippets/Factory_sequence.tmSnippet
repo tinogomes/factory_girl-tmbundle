@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.sequence :${1:name} do |n|
-  $0
-end</string>
+	<string>Factory.sequence(:${1:name}) { |n| "$1#{n}" }
+$0</string>
 	<key>name</key>
 	<string>Factory.sequence</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>facs</string>
+	<string>fs</string>
 	<key>uuid</key>
 	<string>11B3F310-CF79-47B5-8A42-8051ECD2954C</string>
 </dict>

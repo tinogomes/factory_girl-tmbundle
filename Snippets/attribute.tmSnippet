@@ -6,7 +6,7 @@
 	<string>f.${1:attribute} ${2:'${3:value}'}
 f.$0</string>
 	<key>name</key>
-	<string>attribute</string>
+	<string>f.attribute</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>

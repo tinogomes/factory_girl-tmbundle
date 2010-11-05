@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1$2 = Factory.create(:${1:model})
-$0</string>
+	<string>f.sequence(:${1:name}) { |n| "$1#{n}" }
+f.$0
+</string>
 	<key>name</key>
-	<string>Factory create</string>
+	<string>f.sequence</string>
 	<key>scope</key>
-	<string>source.ruby.rspec</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>fc</string>
+	<string>f.s</string>
 	<key>uuid</key>
-	<string>139737D6-397C-4EBC-8A90-C42C9B62AA92</string>
+	<string>310CBE93-0463-4B47-B133-CAD252BBB25B</string>
 </dict>
 </plist>

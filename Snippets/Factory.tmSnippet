@@ -3,13 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory(:${1:model})</string>
+	<string>$1$2 = Factory(:${1:model})
+$0</string>
 	<key>name</key>
 	<string>Factory</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>fac</string>
+	<string>f</string>
 	<key>uuid</key>
 	<string>FE849AE2-89D1-4AEF-8C22-57D79457F0AC</string>
 </dict>
