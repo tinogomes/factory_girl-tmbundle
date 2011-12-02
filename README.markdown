@@ -4,14 +4,14 @@ Yay!!!!
 
 * [http://github.com/bkether/factory_girl-tmbundle](http://github.com/bkether/factory_girl-tmbundle)
 
+Usage: [http://github.com/thoughtbot/factory_girl/wiki/Usage](http://github.com/thoughtbot/factory_girl/wiki/Usage)
+
 DESCRIPTION:
 ------------
 
-The TextMate Bundle for Factory Girl - Based from Factory Girl Snippets on [http://github.com/drnic/ruby-shoulda-tmbundle](http://github.com/drnic/ruby-shoulda-tmbundle) and the old factory_girl sintaxe version < 2.0 [http://github.com/tinogomes/factory_girl-tmbundle](http://github.com/tinogomes/factory_girl-tmbundle). Thx guys!
+The TextMate Bundle for Factory Girl - Based from Factory Girl Snippets on  [http://github.com/tinogomes/factory_girl-tmbundle](http://github.com/tinogomes/factory_girl-tmbundle).
 
-tinogome: You can asking in your mind? Why this Bundle? Well, in my case, I use Factory Girl with RSpec and I don't want to install Ruby Shoulda Bundle on my TextMate. Only this.
-
-bkether: factory_girl-tmbundle is old. So the new sintaxe for factory girl 2.0 does not work. This is my motivation!
+factory_girl-tmbundle is old. So the new syntaxe for factory girl 2.0 does not work. This is my motivation!
 
 INSTALATION:
 ------------
@@ -36,5 +36,4 @@ without Git:
 MAINTAINER
 ----------
 
-* Celestino Gomes (<http://blog.tinogomes.com/>) old version
 * Bruno Barros (<http://bkether.github.com/>) new version
