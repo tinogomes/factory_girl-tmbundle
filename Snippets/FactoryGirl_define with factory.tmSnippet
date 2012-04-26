@@ -9,11 +9,11 @@
   end
 end</string>
 	<key>name</key>
-	<string>FactoryGirl.define with factory</string>
+	<string>Define block with factory</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>facgd</string>
+	<string>facd</string>
 	<key>uuid</key>
 	<string>A20B9254-7765-416B-A407-051F720BD34D</string>
 </dict>

@@ -7,11 +7,11 @@
   $0
 end</string>
 	<key>name</key>
-	<string>FactoryGirl.define</string>
+	<string>Define block</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>facgd</string>
+	<string>facd</string>
 	<key>uuid</key>
 	<string>AEEF2150-CC6E-43A8-8329-C39E256DE6D6</string>
 </dict>

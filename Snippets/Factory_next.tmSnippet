@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.next(:${1:sequence})</string>
+	<string>${1:FactoryGirl.}generate(:${2:sequence})</string>
 	<key>name</key>
-	<string>Factory.next</string>
+	<string>Generate sequence</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>facn</string>
+	<string>facg</string>
 	<key>uuid</key>
 	<string>8750F29F-D945-4349-96A4-5CF0BF217D38</string>
 </dict>

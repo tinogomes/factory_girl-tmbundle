@@ -4,7 +4,10 @@ Yay!!!!
 
 * <http://github.com/tinogomes/factory_girl-tmbundle>
 
-Usage: <http://github.com/thoughtbot/factory_girl/wiki/Usage>
+USAGE
+-----
+
+TODO - See at Bundles | FactoryGirl menu on TextMate
 
 DESCRIPTION:
 ------------

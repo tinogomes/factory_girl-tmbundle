@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>factory :${1:model}, :parent =&gt; :${2:factory} do
-  $0
-end</string>
+	<string>after_stub {|${1:model}${2:, evaluator}| $0 }</string>
 	<key>name</key>
-	<string>Factory with parent</string>
+	<string>After stub</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>fac</string>
+	<string>facac</string>
 	<key>uuid</key>
-	<string>82E2214D-3457-42AE-A25B-DC90A270EFE4</string>
+	<string>7DDAE767-5A9D-48D7-AD5E-C0D9749997AF</string>
 </dict>
 </plist>

@@ -3,10 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:attribute} ${2:'${3:value}'}
-$0</string>
+	<string>${1:attribute} ${2:{ $0\ }}</string>
 	<key>name</key>
-	<string>attribute</string>
+	<string>Attribute</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>

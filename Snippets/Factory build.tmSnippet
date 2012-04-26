@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.build(:${1:model})</string>
+	<string>${1:FactoryGirl.}build(:${2:model})${3: do
+  $0
+end}</string>
 	<key>name</key>
-	<string>Factory build</string>
+	<string>Build</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>

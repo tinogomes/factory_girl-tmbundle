@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory(:${1:model})</string>
+	<string>${1:FactoryGirl.}build_list(:${2:model}, ${3:count})${4: do
+  $0
+end}</string>
 	<key>name</key>
-	<string>Factory</string>
+	<string>Build list</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>fac</string>
+	<string>facb</string>
 	<key>uuid</key>
-	<string>FE849AE2-89D1-4AEF-8C22-57D79457F0AC</string>
+	<string>AD35B669-332A-48FF-9A39-921924E4B8B7</string>
 </dict>
 </plist>

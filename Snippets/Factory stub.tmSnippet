@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.stub(:${1:model})</string>
+	<string>${1:FactoryGirl.}build_stubbed(:${2:model})${3: do
+  $0
+end}</string>
 	<key>name</key>
-	<string>Factory stub</string>
+	<string>Build stubbed</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>facst</string>
+	<string>facbs</string>
 	<key>uuid</key>
 	<string>C274F958-5ECC-463E-823F-720619EF5FB1</string>
 </dict>
