@@ -14,6 +14,8 @@ DESCRIPTION:
 
 The TextMate Bundle for Factory Girl - Inspiration from Factory Girl Snippets on <http://github.com/drnic/ruby-shoulda-tmbundle>
 
+To use with Factory Girl, on version 1.x, use tag v1.x
+
 INSTALATION:
 ------------
 
